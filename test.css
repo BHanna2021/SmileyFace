@@ -1,0 +1,17 @@
+
+
+
+.marioHat{
+    border: solid 1px red;
+    background-color: red;
+}
+
+#marioHat{
+    width:140px;
+    height:70px;
+    border-radius: 100px 100px 50px 50px;
+    position: relative;
+    top: 130px;
+    left: 355px;
+    z-index: 3;
+}
